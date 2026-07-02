@@ -6,7 +6,7 @@ Je suis étudiant en troisième année (L3) de MIASHS, passionné par le dévelo
 * 🎓 Futur étudiant en Master et **à la recherche d'une alternance en Data Engineering**.
 * 💻 J'aime explorer différents paradigmes de programmation, du système au fonctionnel.
 * 📈 Mes intérêts se portent sur la structuration des pipelines de données et l'optimisation.
-* ⚡ Sur mon temps libre, je m'intéresse à la création de contenu (streaming/montage), aux jeux vidéo et à la mécanique (restauration de ma 405 !).
+* ⚡ Sur mon temps libre, je m'intéresse à la création de contenu (streaming/montage), aux jeux vidéo.
 
 ### 🛠️ Ma Stack Technique :
 <p align="left">
